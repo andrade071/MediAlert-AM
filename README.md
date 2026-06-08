@@ -61,7 +61,7 @@ O sistema permite associar medicamentos a uma localização informada pelo usuá
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Linguagem
 
@@ -174,7 +174,7 @@ paracetamol,12.00,Centro Manaus
 
 ---
 
-## ▶ Execução
+##  Execução
 
 Executar:
 
@@ -221,14 +221,5 @@ O sistema irá:
 
 ---
 
-## 👩 Desenvolvedora
-
-**Raquel Andrade da Gama**
-
-Tecnóloga em Análise e Desenvolvimento de Sistemas.
-
----
-
-## 📄 Licença
 
 Projeto desenvolvido para fins acadêmicos e educacionais.
