@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/aprendiz.ti.REAL/Desktop/md/MediAlert-AM-main/mlruns/1/models/m-3bb90e4316144bc28177b40cdbe8193e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-3bb90e4316144bc28177b40cdbe8193e
+model_size_bytes: 1591686
+model_uuid: m-3bb90e4316144bc28177b40cdbe8193e
+prompts: null
+run_id: bfd10453adfb41a897b4457de8d05843
+utc_time_created: '2026-06-08 19:17:22.269762'

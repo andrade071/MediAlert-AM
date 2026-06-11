@@ -1,0 +1,689 @@
+﻿data_hora,medicamento,preco_maximo,localizacao,farmacia,titulo,preco,preco_numero,categoria_preco,alerta,relevante,link
+2026-06-11 09:07:35,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 1g 10 Comprimidos Medley Genérico,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-monoidratada-1g-medley-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:07:35,dipirona,30,Centro Manaus,Drogasil,Dipirona Sodica,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-monoidratada-1g-medley-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Bwell Dipbe Dipirona Monoidratada 500mg/ml Solução Gotas 10ml,"R$ 9,59",9.59,baixo,SIM,1,https://www.drogasil.com.br/bwell-dipirona-monoidratada-500mg-10ml-1344194.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada Bwell 500mg 20ml,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogasil.com.br/bwell-dipirona-monoidratada-500mg-20ml-1344286.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 500mg 10 comprimidos EMS Genérico,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogasil.com.br/dipirona-sodica-ems-gen-500mg-1x10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Sodica,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-sodica-ems-gen-500mg-1x10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 1g 10 comprimidos Cimed Genérico,"R$ 4,99",4.99,baixo,SIM,1,https://www.drogasil.com.br/dipirona-genericos-1g-com-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Sodica,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-genericos-1g-com-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Maxalgina Dipirona Sódica 500mg/ml Solução Gotas 20ml,"R$ 6,37",6.37,baixo,SIM,1,https://www.drogasil.com.br/maxalgina-20ml.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 500mg 10 comprimidos Prati Donaduzzi Genérico,"R$ 4,99",4.99,baixo,SIM,1,https://www.drogasil.com.br/dipirona-monoidratada-500mg-prati-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Sodica,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-monoidratada-500mg-prati-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 500mg 30 Comprimidos Medley Genérico,"R$ 14,99",14.99,baixo,SIM,1,https://www.drogasil.com.br/dipirona-sodica-500mg-medley-generico-30-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Sodica,"R$ 7,93",7.93,baixo,SIM,1,https://www.drogasil.com.br/dipirona-sodica-500mg-medley-generico-30-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Maxalgina Dipirona Monoidratada 1g 10 comprimidos,"R$ 9,14",9.14,baixo,SIM,1,https://www.drogasil.com.br/maxalgina-1g-com-10-comprimidos.html?origin=search
+2026-06-11 09:07:36,dipirona,30,Centro Manaus,Drogasil,Dipirona Monoidratada 500mg/ml Solução Gotas 10ml EMS Genérico,"R$ 17,89",17.89,baixo,SIM,1,https://www.drogasil.com.br/dipirona-sodica-500-mg-solucao-ems-generico-10-ml.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Bwell Dipbe Dipirona Monoidratada 500mg/ml Solução Gotas 10ml,"R$ 9,59",9.59,baixo,SIM,1,https://www.drogaraia.com.br/bwell-dipirona-monoidratada-500mg-10ml-1344194.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada Bwell 500mg 20ml,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogaraia.com.br/bwell-dipirona-monoidratada-500mg-20ml-1344286.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 500mg 10 comprimidos EMS Genérico,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-ems-gen-500mg-1x10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-ems-gen-500mg-1x10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 1g 10 comprimidos Cimed Genérico,"R$ 7,99",7.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-genericos-1g-com-10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-genericos-1g-com-10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 1g 10 Comprimidos Medley Genérico,"R$ 4,99",4.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-monoidratada-1g-medley-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-monoidratada-1g-medley-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:08:13,dipirona,30,Centro Manaus,Droga Raia,Maxalgina Dipirona Sódica 500mg/ml Solução Gotas 20ml,"R$ 2,99",2.99,baixo,SIM,1,https://www.drogaraia.com.br/maxalgina-20ml.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 500mg 30 Comprimidos Medley Genérico,"R$ 14,99",14.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-500mg-medley-generico-30-comprimidos.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-500mg-medley-generico-30-comprimidos.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 500mg 10 comprimidos Prati Donaduzzi Genérico,"R$ 25,53",25.53,medio,SIM,1,https://www.drogaraia.com.br/dipirona-monoidratada-500mg-prati-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-monoidratada-500mg-prati-genericos-10-comprimidos.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Monoidratada 50mg/ml Solução Oral Sabor Framboesa 100ml Medley Genérico,"R$ 9,14",9.14,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-50-mg-medley-generico-solucao-100-ml.html?origin=search
+2026-06-11 09:08:14,dipirona,30,Centro Manaus,Droga Raia,Dipirona Sodica,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/dipirona-sodica-50-mg-medley-generico-solucao-100-ml.html?origin=search
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,Dipirona 500Mg,"R$
+27,08",27.08,medio,SIM,1,https://www.ultrafarma.com.br/lp/dipirona/dipirona-500mg
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,Dipirona 1G,"R$ 5,99",5.99,baixo,SIM,1,https://www.ultrafarma.com.br/lp/dipirona/dipirona-1g
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,Dipirona Gotas,"R$ 5,99",5.99,baixo,SIM,1,https://www.ultrafarma.com.br/lp/dipirona/dipirona-gotas
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,Dipirona Xarope,"R$ 5,81",5.81,baixo,SIM,1,https://www.ultrafarma.com.br/lp/dipirona/dipirona-xarope
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,Dipirona + Cafeína,"R$ 5,81",5.81,baixo,SIM,1,https://www.ultrafarma.com.br/lp/dipirona/dipirona-cafeina
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 175.800 vendidos
+Dipirona Monoidratada 1G 10 Comprimidos - Cimed Genérico (Novalgina)
+De
+R$
+27,08
+78% off
+Por
+R$ 5,99
+Pix
+R$ 5,81
+(No Pix 3% de desconto)","R$ 5,81",5.81,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-1g-10-comprimidos-cimed-generico
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 2.000 vendidos
+Atroveran Dip Dipirona Gotas 20Ml
+De
+R$
+24,39
+23% off
+Por
+R$ 18,80
+Pix
+R$ 18,24
+(No Pix 3% de desconto)","R$ 18,24",18.24,baixo,SIM,1,https://www.ultrafarma.com.br/atroveran-dip-gotas-20ml
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 62.500 vendidos
+Aberalgina Dipirona 500Mg/Ml Gotas 10Ml
+De
+R$
+9,32
+64% off
+Por
+R$ 3,32
+Preço unitário na promoção
+R$ 2,82
+Pix
+R$ 2,74
+(No Pix 3% de desconto)","R$ 2,74",2.74,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-sodica-aberalgina-500mg-10ml
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 121.900 vendidos
+Aberalgina Dipirona 500Mg/Ml Gotas 20Ml
+De
+R$
+12,68
+55% off
+Por
+R$ 5,68
+Preço unitário na promoção
+R$ 4,83
+Pix
+R$ 4,69
+(No Pix 3% de desconto)","R$ 4,69",4.69,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-sodica-aberalgina-500mgml-20ml
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 254.100 vendidos
+Dipirona 500Mg 10 Comprimidos - Legrand Genérico (Novalgina)
+De
+R$
+9,55
+71% off
+Por
+R$ 2,79
+Pix
+R$ 2,71
+(No Pix 3% de desconto)","R$ 2,71",2.71,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500-mg-com-10-comprimidos-legrand-generico
+2026-06-11 09:08:50,dipirona,30,Centro Manaus,Ultrafarma,"+ 2.673.700 vendidos
+Dipirona 500Mg 10 Comprimidos - Ems Genérico (Novalgina)
+De
+R$
+9,55
+75% off
+Por
+R$ 2,42
+Pix
+R$ 2,35
+(No Pix 3% de desconto)","R$ 2,35",2.35,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500mg-10-comprimidos-ems-generico
+2026-06-11 09:08:51,dipirona,30,Centro Manaus,Ultrafarma,"+ 26.600 vendidos
+Dipirona 500Mg 10 Comprimidos - Nova Química Genérico (Novalgina)
+De
+R$
+10,29
+71% off
+Por
+R$ 2,98
+Pix
+R$ 2,89
+(No Pix 3% de desconto)","R$ 2,89",2.89,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500mg-10-comprimidos-nova-quimica-generico
+2026-06-11 09:08:51,dipirona,30,Centro Manaus,Ultrafarma,"+ 4.700 vendidos
+Dipirona 500Mg 30 Comprimidos - Germed Genérico (Novalgina)
+De
+R$
+24,74
+61% off
+Por
+R$ 9,73
+Pix
+R$ 9,44
+(No Pix 3% de desconto)","R$ 9,44",9.44,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500-mg-com-30-comprimidos-germed-generico
+2026-06-11 09:08:51,dipirona,30,Centro Manaus,Ultrafarma,"+ 73.700 vendidos
+Dipirona 500Mg 30 Comprimidos - Medley Genérico (Novalgina)
+De
+R$
+35,09
+74% off
+Por
+R$ 8,99
+Pix
+R$ 8,72
+(No Pix 3% de desconto)","R$ 8,72",8.72,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500-mg-com-30-comprimidos-medley-generico
+2026-06-11 09:08:51,dipirona,30,Centro Manaus,Ultrafarma,"+ 396.700 vendidos
+Dipirona 500Mg/Ml Gotas 10Ml - Ems Genérico (Novalgina)
+De
+R$
+9,14
+74% off
+Por
+R$ 2,39
+Pix
+R$ 2,32
+(No Pix 3% de desconto)","R$ 2,32",2.32,baixo,SIM,1,https://www.ultrafarma.com.br/dipirona-500mgml-gotas-10-ml-ems-generico
+2026-06-11 09:09:20,paracetamol,30,Zumbi Manaus,Drogasil,Tylenol Sinus Paracetamol 500mg + Cloridrato de Pseudoefedrina 30mg 24 comprimidos,"R$ 27,19",27.19,medio,SIM,1,https://www.drogasil.com.br/tylenol-sinus-24-comprimidos.html?origin=search
+2026-06-11 09:09:20,paracetamol,30,Zumbi Manaus,Drogasil,Tylenol Sinus Paracetamol 500mg + Cloridrato de Pseudoefedrina 30mg 36 comprimidos,"R$ 15,90",15.9,baixo,SIM,1,https://www.drogasil.com.br/tylenol-sinus-36-comprimidos.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Doril Enxaqueca Ácido Acetilsalicílico 250mg + Paracetamol 250mg + Cafeína 65mg 8 comprimidos,"R$ 15,90",15.9,baixo,SIM,1,https://www.drogasil.com.br/doril-enxaqueca-8-comprimidos.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Tylenol Paracetamol Bebê 100mg/ml Suspensão Oral Sabor Frutas 15ml,"R$ 42,95",42.95,medio,NÃO,0,https://www.drogasil.com.br/tylenol-bebe-gotas-15-ml.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol bwell 750mg 20 Comprimidos,"R$ 27,09",27.09,medio,SIM,1,https://www.drogasil.com.br/bwell-paracetamol-750mg-20-s.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol Criança bwell 32mg/ml Frutas Suspensão Oral 60ml,"R$ 31,29",31.29,medio,NÃO,0,https://www.drogasil.com.br/bwell-paracetamol-crianca-32mg-60ml.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol Bebê bwell 100mg/ml Sabor Frutas 15ml,"R$ 14,39",14.39,baixo,SIM,1,https://www.drogasil.com.br/bwell-bebe-100mg-15ml.html?origin=search
+2026-06-11 09:09:21,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol bwell 500mg + Cafeina 65mg 10 Comprimidos,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogasil.com.br/bwell-paracetamol-cafeina-500-65mg-10-s.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol 500mg 10 comprimidos Prati Donaduzzi Genérico,"R$ 23,49",23.49,medio,SIM,1,https://www.drogasil.com.br/paracetamol-500mg-com-10-comprimidos-prati-donaduzzi-genrico.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/paracetamol-500mg-com-10-comprimidos-prati-donaduzzi-genrico.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol 750mg 20 comprimidos EMS Genérico,"R$ 16,73",16.73,baixo,SIM,1,https://www.drogasil.com.br/paracetamol-750-mg-ems-genericos-20-comprimidos.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/paracetamol-750-mg-ems-genericos-20-comprimidos.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol 750mg 20 comprimidos Prati Donaduzzi Genérico,"R$ 8,99",8.99,baixo,SIM,1,https://www.drogasil.com.br/paracetamol-750mg-prati-generico-20-comprimidos.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/paracetamol-750mg-prati-generico-20-comprimidos.html?origin=search
+2026-06-11 09:09:22,paracetamol,30,Zumbi Manaus,Drogasil,Paracetamol 200mg/ml Solução Oral 15ml EMS Genérico,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogasil.com.br/paracetamol-200-mg-ems-generico-gotas-15ml.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol bwell 750mg 20 Comprimidos,"R$ 27,09",27.09,medio,SIM,1,https://www.drogaraia.com.br/bwell-paracetamol-750mg-20-s.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol Criança bwell 32mg/ml Frutas Suspensão Oral 60ml,"R$ 31,29",31.29,medio,NÃO,0,https://www.drogaraia.com.br/bwell-paracetamol-crianca-32mg-60ml.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol Bebê bwell 100mg/ml Sabor Frutas 15ml,"R$ 14,39",14.39,baixo,SIM,1,https://www.drogaraia.com.br/bwell-bebe-100mg-15ml.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol bwell 500mg + Cafeina 65mg 10 Comprimidos,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/bwell-paracetamol-cafeina-500-65mg-10-s.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol 750mg 20 comprimidos EMS Genérico,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/paracetamol-750-mg-ems-genericos-20-comprimidos.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/paracetamol-750-mg-ems-genericos-20-comprimidos.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol 500mg 10 comprimidos Prati Donaduzzi Genérico,"R$ 11,30",11.3,baixo,SIM,1,https://www.drogaraia.com.br/paracetamol-500mg-com-10-comprimidos-prati-donaduzzi-genrico.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/paracetamol-500mg-com-10-comprimidos-prati-donaduzzi-genrico.html?origin=search
+2026-06-11 09:09:52,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol 200mg/ml Solução Oral 15ml EMS Genérico,"R$ 16,73",16.73,baixo,SIM,1,https://www.drogaraia.com.br/paracetamol-200-mg-ems-generico-gotas-15ml.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/paracetamol-200-mg-ems-generico-gotas-15ml.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol 750mg 20 comprimidos Prati Donaduzzi Genérico,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/paracetamol-750mg-prati-generico-20-comprimidos.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/paracetamol-750mg-prati-generico-20-comprimidos.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol 750mg 20 comprimidos União Química Genérico,"R$ 25,74",25.74,medio,SIM,1,https://www.drogaraia.com.br/paracetamol-750mg-uniao-quimica-com-20-comprimidos.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/paracetamol-750mg-uniao-quimica-com-20-comprimidos.html?origin=search
+2026-06-11 09:09:53,paracetamol,30,Zumbi Manaus,Droga Raia,Paracetamol Bebê 100mg/ml Suspensão Oral Sabor Cereja 15ml EMS Genérico,"R$ 8,99",8.99,baixo,SIM,1,https://www.drogaraia.com.br/paracetamol-bebe-100-mg-ems-generico-gotas-15ml.html?origin=search
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol 500Mg,"R$
+22,98",22.98,medio,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-500mg
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol 750Mg,"R$
+22,98",22.98,medio,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-750mg
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol Gotas,"R$ 18,36",18.36,baixo,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-gotas
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol Sachê,"R$ 18,36",18.36,baixo,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-sache
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol + Cafeína,"R$ 17,81",17.81,baixo,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-cafeina
+2026-06-11 09:10:10,paracetamol,30,Zumbi Manaus,Ultrafarma,Paracetamol + Pseudo,"R$ 17,81",17.81,baixo,SIM,1,https://www.ultrafarma.com.br/lp/paracetamol/paracetamol-pseudo
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 2.500 vendidos
+Dorsanol Paracetamol 200Mg/Ml Gotas Sabor Tutti-Frutti 15Ml
+De
+R$
+14,25
+70% off
+Por
+R$ 4,23
+Pix
+R$ 4,10
+(No Pix 3% de desconto)","R$ 4,10",4.1,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-dorsanol-sabor-tutti-frutti-gotas-15ml
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 900 vendidos
+Dorsanol Paracetamol 500Mg 20 Comprimidos
+De
+R$
+22,16
+74% off
+Por
+R$ 5,82
+Pix
+R$ 5,65
+(No Pix 3% de desconto)","R$ 5,65",5.65,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-dorsanol-500mg-20-comprimidos
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 1.500 vendidos
+Dorsanol Paracetamol 750Mg 20 Comprimidos
+De
+R$
+27,25
+68% off
+Por
+R$ 8,70
+Pix
+R$ 8,44
+(No Pix 3% de desconto)","R$ 8,44",8.44,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-dorsanol-750mg-20-comprimidos
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 9.400 vendidos
+Tyflen Paracetamol 500Mg 10 Comprimidos
+De
+R$
+8,50
+63% off
+Por
+R$ 3,18
+Pix
+R$ 3,08
+(No Pix 3% de desconto)","R$ 3,08",3.08,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-tyflen-500mg-10-comprimidos
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 6.600 vendidos
+Tyflen Paracetamol 750Mg 20 Comprimidos
+De
+R$
+20,28
+80% off
+Por
+R$ 3,99
+Pix
+R$ 3,87
+(No Pix 3% de desconto)","R$ 3,87",3.87,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-tyflen-750mg-20-comprimidos
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 2.100 vendidos
+Tyflen Paracetamol Criança 32Mg/Ml Gotas 60Ml
+De
+R$
+23,30
+57% off
+Por
+R$ 9,99
+Pix
+R$ 9,69
+(No Pix 3% de desconto)","R$ 9,69",9.69,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-tyflen-crianca-gotas-60-ml
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 48.900 vendidos
+Paracetamol 200Mg/Ml Gotas 15Ml - Greenpharma Genérico (Tylenol)
+De
+R$
+11,21
+73% off
+Por
+R$ 3,00
+Pix
+R$ 2,91
+(No Pix 3% de desconto)","R$ 2,91",2.91,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-15ml-greenpharma-generico
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 41.100 vendidos
+Paracetamol 200Mg/Ml Gotas 15Ml - Ems Genérico (Tylenol)
+De
+R$
+11,93
+64% off
+Por
+R$ 4,26
+Pix
+R$ 4,13
+(No Pix 3% de desconto)","R$ 4,13",4.13,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-15ml-ems-generico
+2026-06-11 09:10:11,paracetamol,30,Zumbi Manaus,Ultrafarma,"+ 7.100 vendidos
+Paracetamol 200Mg/Ml Gotas 15Ml - Medley Genérico (Tylenol)
+De
+R$
+18,26
+65% off
+Por
+R$ 6,30
+Pix
+R$ 6,11
+(No Pix 3% de desconto)","R$ 6,11",6.11,baixo,SIM,1,https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-com-15-ml-medley-generico
+2026-06-11 09:10:33,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 400mg 10 cápsulas Medley Genérico,"R$ 8,62",8.62,baixo,SIM,1,https://www.drogasil.com.br/ibuprofeno-400mg-10-capsulas-liquidas.html?origin=search
+2026-06-11 09:10:33,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/ibuprofeno-400mg-10-capsulas-liquidas.html?origin=search
+2026-06-11 09:10:33,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 100mg/ml Suspensão Oral Sabor Frutas 20ml Medley Genérico,"R$ 9,92",9.92,baixo,SIM,1,https://www.drogasil.com.br/ibuprofeno-gotas-100mg-medley-genericos-20ml.html?origin=search
+2026-06-11 09:10:33,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/ibuprofeno-gotas-100mg-medley-genericos-20ml.html?origin=search
+2026-06-11 09:10:33,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Buscofem Ibuprofeno 400mg 20 cápsulas,"R$ 42,99",42.99,medio,NÃO,0,https://www.drogasil.com.br/buscofem-400mg-com-20-capsulas-gel-mole.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Advil 12h Ibuprofeno 600mg 6 comprimidos,"R$ 22,67",22.67,medio,SIM,1,https://www.drogasil.com.br/advil-12-horas-600mg-6-comprimidos-revestidos-de-liberacao-prolongada.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 600mg 20 comprimidos Farmaco Prati Genérico,"R$ 13,99",13.99,baixo,SIM,1,https://www.drogasil.com.br/ibuprofeno-600mg-farmaco-generico-com-20-comprimidos-revestidos.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 100mg/ml Cimed Suspensão Oral Sabor Tutti-Frutti 20ml,"R$ 6,99",6.99,baixo,SIM,1,https://www.drogasil.com.br/ibuprofeno-100-mg-ml-susp-oral-20ml.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/ibuprofeno-100-mg-ml-susp-oral-20ml.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuliv Ibuprofeno 400mg 8 Cápsulas,"R$ 32,14",32.14,medio,SIM,1,https://www.drogasil.com.br/ibuliv-400-mg-8-capsulas.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Advil Ibuprofeno 400mg 12 cápsulas,"R$ 8,25",8.25,baixo,SIM,1,https://www.drogasil.com.br/advil-400mg-6-capsulas-984339.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuflex Ibuprofeno 400mg 8 cápsulas,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogasil.com.br/ibuflex-analgesico-400mg-8-capsulas-gelatinosa.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 400mg 10 comprimidos Neo Química Genérico,"R$ 23,25",23.25,medio,SIM,1,https://www.drogasil.com.br/ibuprofeno-neoquimica-400mg-com-10-comprimidos.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/ibuprofeno-neoquimica-400mg-com-10-comprimidos.html?origin=search
+2026-06-11 09:10:34,ibuprofeno,40,Jorge Teixeira Manaus,Drogasil,Ibuprofeno 400mg 10 Cápsulas Gelatinosas Mole Althaia Genérico,"R$ 18,39",18.39,baixo,SIM,1,https://www.drogasil.com.br/althaia-ibuprofeno-400mg-10-capsulas-gelatinosas-mole.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 600mg 20 comprimidos Farmaco Prati Genérico,"R$ 13,99",13.99,baixo,SIM,1,https://www.drogaraia.com.br/ibuprofeno-600mg-farmaco-generico-com-20-comprimidos-revestidos.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 400mg 10 cápsulas Medley Genérico,"R$ 8,35",8.35,baixo,SIM,1,https://www.drogaraia.com.br/ibuprofeno-400mg-10-capsulas-liquidas.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/ibuprofeno-400mg-10-capsulas-liquidas.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 100mg/ml Cimed Suspensão Oral Sabor Tutti-Frutti 20ml,"R$ 6,99",6.99,baixo,SIM,1,https://www.drogaraia.com.br/ibuprofeno-100-mg-ml-susp-oral-20ml.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/ibuprofeno-100-mg-ml-susp-oral-20ml.html?origin=search
+2026-06-11 09:11:01,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuliv Ibuprofeno 400mg 8 Cápsulas,"R$ 18,39",18.39,baixo,SIM,1,https://www.drogaraia.com.br/ibuliv-400-mg-8-capsulas.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibupril Ibuprofeno 600mg 20 comprimidos,"R$ 9,92",9.92,baixo,SIM,1,https://www.drogaraia.com.br/ibupril-600-mg-20-comprimidos.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 100mg/ml Suspensão Oral Sabor Frutas 20ml Medley Genérico,"R$ 9,92",9.92,baixo,SIM,1,https://www.drogaraia.com.br/ibuprofeno-gotas-100mg-medley-genericos-20ml.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/ibuprofeno-gotas-100mg-medley-genericos-20ml.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Advil Ibuprofeno 400mg 12 cápsulas,"R$ 8,25",8.25,baixo,SIM,1,https://www.drogaraia.com.br/advil-400mg-6-capsulas-984339.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuflex Ibuprofeno 400mg 8 cápsulas,"R$ 28,19",28.19,medio,SIM,1,https://www.drogaraia.com.br/ibuflex-analgesico-400mg-8-capsulas-gelatinosa.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Buprovil Ibuprofeno 600mg 30 comprimidos,"R$ 13,49",13.49,baixo,SIM,1,https://www.drogaraia.com.br/buprovil-600-mg-30-comprimidos.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 400mg 10 Cápsulas Gelatinosas Mole Althaia Genérico,"R$ 25,18",25.18,medio,SIM,1,https://www.drogaraia.com.br/althaia-ibuprofeno-400mg-10-capsulas-gelatinosas-mole.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Advil 12h Ibuprofeno 600mg 6 comprimidos,"R$ 9,90",9.9,baixo,SIM,1,https://www.drogaraia.com.br/advil-12-horas-600mg-6-comprimidos-revestidos-de-liberacao-prolongada.html?origin=search
+2026-06-11 09:11:02,ibuprofeno,40,Jorge Teixeira Manaus,Droga Raia,Ibuprofeno 50mg/ml Suspensão Oral 30ml Neo Química Genérico,"R$ 9,99",9.99,baixo,SIM,1,https://www.drogaraia.com.br/ibuprofeno-brainfarma-30ml-gotas-sem-prescricao-generico.html?origin=search
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno 300Mg,"R$
+42,26",42.26,medio,NÃO,0,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-300mg
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno 400Mg,"R$
+42,26",42.26,medio,NÃO,0,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-400mg
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno 600Mg,"R$ 29,92",29.92,medio,SIM,1,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-600mg
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno 50mg/ml Gotas,"R$ 29,92",29.92,medio,SIM,1,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-50mgml-gotas
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno 100mg/ml Gotas,"R$ 29,02",29.02,medio,SIM,1,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-100mgml-gotas
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,Ibuprofeno + Arginina,"R$ 29,02",29.02,medio,SIM,1,https://www.ultrafarma.com.br/lp/ibuprofeno/ibuprofeno-arginina
+2026-06-11 09:11:18,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 6.700 vendidos
+Ibuprofeno Advil 400Mg 16 Cápsulas
+De
+R$
+42,26
+29% off
+Por
+R$ 29,92
+Pix
+R$ 29,02
+(No Pix 3% de desconto)","R$ 29,02",29.02,medio,SIM,1,https://www.ultrafarma.com.br/advil-400mg-com-16-capsulas
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 27.400 vendidos
+Advil Ibuprofeno 400Mg 20 Cápsulas
+De
+R$
+51,91
+29% off
+Por
+R$ 36,76
+Pix
+R$ 35,66
+(No Pix 3% de desconto)","R$ 35,66",35.66,medio,SIM,1,https://www.ultrafarma.com.br/advil-400mg-com-20-capsulas
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 40.100 vendidos
+Advil Ibuprofeno 400Mg 3 Cápsulas
+De
+R$
+9,99
+40% off
+Por
+R$ 5,99
+Pix
+R$ 5,81
+(No Pix 3% de desconto)","R$ 5,81",5.81,baixo,SIM,1,https://www.ultrafarma.com.br/advil-400-mg-com-3-capsulas
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 25.900 vendidos
+Advil Ibuprofeno 400Mg 8 Cápsulas
+De
+R$
+25,64
+61% off
+Por
+R$ 9,99
+Pix
+R$ 9,69
+(No Pix 3% de desconto)","R$ 9,69",9.69,baixo,SIM,1,https://www.ultrafarma.com.br/advil-400mg-com-8-capsulas
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 88.400 vendidos
+Advil Ibuprofeno 400Mg 8 Cápsulas
+De
+R$
+22,93
+35% off
+Por
+R$ 14,90
+Pix
+R$ 14,45
+(No Pix 3% de desconto)","R$ 14,45",14.45,baixo,SIM,1,https://www.ultrafarma.com.br/advil-400mg-8-comprimidos
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 5.700 vendidos
+Advil Ibuprofeno 12H 600Mg 12 Comprimidos
+De
+R$
+40,31
+29% off
+Por
+R$ 28,55
+Pix
+R$ 27,69
+(No Pix 3% de desconto)","R$ 27,69",27.69,medio,SIM,1,https://www.ultrafarma.com.br/ibuprofeno-advil-600mg-12h-12-comprimidos
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 4.700 vendidos
+Advil Ibuprofeno 12H 600Mg 2 Comprimidos
+De
+R$
+8,65
+29% off
+Por
+R$ 6,12
+Pix
+R$ 5,94
+(No Pix 3% de desconto)","R$ 5,94",5.94,baixo,SIM,1,https://www.ultrafarma.com.br/advil-600mg-12h-36-comprimidos
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 15.400 vendidos
+Advil Ibuprofeno 12H 600Mg 6 Comprimidos
+De
+R$
+25,18
+31% off
+Por
+R$ 17,36
+Pix
+R$ 16,84
+(No Pix 3% de desconto)","R$ 16,84",16.84,baixo,SIM,1,https://www.ultrafarma.com.br/advil-600mg-12h-6-comprimidos
+2026-06-11 09:11:19,ibuprofeno,40,Jorge Teixeira Manaus,Ultrafarma,"+ 8.400 vendidos
+Advil Mulher Ibuprofeno 400Mg 02 Cápsulas
+De
+R$
+6,65
+29% off
+Por
+R$ 4,71
+Pix
+R$ 4,57
+(No Pix 3% de desconto)","R$ 4,57",4.57,baixo,SIM,1,https://www.ultrafarma.com.br/advil-mulher-400mg-02-capsulas
+2026-06-11 09:11:44,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratamed Loratadina 10mg 12 comprimidos,"R$ 8,99",8.99,baixo,SIM,1,https://www.drogasil.com.br/loratamed-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:11:44,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina 10mg 12 comprimidos Cimed Genérico,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogasil.com.br/loratadina-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:11:44,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/loratadina-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina 10mg 12 comprimidos Neo Química Genérico,"R$ 37,19",37.19,medio,NÃO,0,https://www.drogasil.com.br/loratadina-10mg-neo-quimica-generico-com-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/loratadina-10mg-neo-quimica-generico-com-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina 1mg/ml Xarope 100ml Cimed Genérico,"R$ 22,59",22.59,medio,SIM,1,https://www.drogasil.com.br/loratadina-100mg-cimed-genericos-xarope-com-100ml.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogasil.com.br/loratadina-100mg-cimed-genericos-xarope-com-100ml.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratamed Loratadina 1mg/ml Xarope 100ml,"R$ 12,19",12.19,baixo,SIM,1,https://www.drogasil.com.br/loratamed-1mg-xarope-100ml.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Histadin Loratadina 10mg 12 comprimidos,"R$ 22,98",22.98,medio,SIM,1,https://www.drogasil.com.br/histadin-10mg-com-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Claritin Loratadina 10mg 12 comprimidos,"R$ 34,17",34.17,medio,SIM,1,https://www.drogasil.com.br/claritin-10-mg-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratadina 1mg/ml + Sulfato de Pseudoefedrina 12mg/ml Xarope 60ml Aché Biosintética Genérico,"R$ 18,79",18.79,baixo,SIM,1,https://www.drogasil.com.br/loratadina-5mg-5ml-sulfato-de-pseudoefedrina-60mg-5ml-biosintetica-generico-60ml-xarope.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Neo Loratadin Loratadina 10mg 12 comprimidos,"R$ 14,09",14.09,baixo,SIM,1,https://www.drogasil.com.br/neo-loratadin-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Claritin Loratadina 10mg 6 comprimidos,"R$ 28,69",28.69,medio,SIM,1,https://www.drogasil.com.br/claritin-10mg-6-comprimidos.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Loratamed D Loratadina 1mg + Sulfato de Pseudoefedrina 12mg Xarope 60ml,"R$ 17,17",17.17,baixo,SIM,1,https://www.drogasil.com.br/loratamed-d-1mg-ml-12mg-ml-xarope-60ml-copo-dosador.html?origin=search
+2026-06-11 09:11:45,loratadina,35,Santo Agostinho Manaus,Drogasil,Lorasliv Loratadina 10mg 12 comprimidos,"R$ 60,67",60.67,alto,NÃO,0,https://www.drogasil.com.br/lorasliv-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina 10mg 12 comprimidos Cimed Genérico,"R$ 5,99",5.99,baixo,SIM,1,https://www.drogaraia.com.br/loratadina-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/loratadina-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratamed Loratadina 10mg 12 comprimidos,"R$ 8,99",8.99,baixo,SIM,1,https://www.drogaraia.com.br/loratamed-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina 10mg 12 comprimidos Neo Química Genérico,"R$ 37,19",37.19,medio,NÃO,0,https://www.drogaraia.com.br/loratadina-10mg-neo-quimica-generico-com-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/loratadina-10mg-neo-quimica-generico-com-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina 1mg/ml Xarope 100ml Cimed Genérico,"R$ 22,59",22.59,medio,SIM,1,https://www.drogaraia.com.br/loratadina-100mg-cimed-genericos-xarope-com-100ml.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina,Preço não encontrado,,indefinido,NÃO,1,https://www.drogaraia.com.br/loratadina-100mg-cimed-genericos-xarope-com-100ml.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratamed Loratadina 1mg/ml Xarope 100ml,"R$ 12,19",12.19,baixo,SIM,1,https://www.drogaraia.com.br/loratamed-1mg-xarope-100ml.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Histadin Loratadina 10mg 12 comprimidos,"R$ 22,98",22.98,medio,SIM,1,https://www.drogaraia.com.br/histadin-10mg-com-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Claritin Loratadina 10mg 12 comprimidos,"R$ 12,99",12.99,baixo,SIM,1,https://www.drogaraia.com.br/claritin-10-mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Claritin Loratadina 10mg 6 comprimidos,"R$ 34,17",34.17,medio,SIM,1,https://www.drogaraia.com.br/claritin-10mg-6-comprimidos.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratadina 1mg/ml + Sulfato de Pseudoefedrina 12mg/ml Xarope 60ml Aché Biosintética Genérico,"R$ 18,79",18.79,baixo,SIM,1,https://www.drogaraia.com.br/loratadina-5mg-5ml-sulfato-de-pseudoefedrina-60mg-5ml-biosintetica-generico-60ml-xarope.html?origin=search
+2026-06-11 09:12:09,loratadina,35,Santo Agostinho Manaus,Droga Raia,Neo Loratadin Loratadina 10mg 12 comprimidos,"R$ 30,39",30.39,medio,SIM,1,https://www.drogaraia.com.br/neo-loratadin-10mg-12-comprimidos.html?origin=search
+2026-06-11 09:12:10,loratadina,35,Santo Agostinho Manaus,Droga Raia,Loratamed D Loratadina 1mg + Sulfato de Pseudoefedrina 12mg Xarope 60ml,"R$ 60,67",60.67,alto,NÃO,0,https://www.drogaraia.com.br/loratamed-d-1mg-ml-12mg-ml-xarope-60ml-copo-dosador.html?origin=search
+2026-06-11 09:12:10,loratadina,35,Santo Agostinho Manaus,Droga Raia,Histadin D Loratadina 1mg + Sulfato de Pseudoefedrina 12mg Xarope 60ml + Copo-Medida,"R$ 17,17",17.17,baixo,SIM,1,https://www.drogaraia.com.br/histadin-d-12mg-xarope-com-60ml.html?origin=search
+2026-06-11 09:12:25,loratadina,35,Santo Agostinho Manaus,Ultrafarma,Loratadina Comprimidos,"R$ 19,99",19.99,baixo,SIM,1,https://www.ultrafarma.com.br/lp/loratadina/loratadina-comprimidos
+2026-06-11 09:12:25,loratadina,35,Santo Agostinho Manaus,Ultrafarma,Loratadina Xarope,"R$ 19,39",19.39,baixo,SIM,1,https://www.ultrafarma.com.br/lp/loratadina/loratadina-xarope
+2026-06-11 09:12:25,loratadina,35,Santo Agostinho Manaus,Ultrafarma,Loratadina + Pseudoefedrina,"R$ 19,39",19.39,baixo,SIM,1,https://www.ultrafarma.com.br/lp/loratadina/loratadina-pseudoefedrina
+2026-06-11 09:12:25,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 937.200 vendidos
+Lorasliv Loratadina 10Mg 12 Comprimidos
+De
+R$
+17,17
+76% off
+Por
+R$ 4,06
+Pix
+R$ 3,94
+(No Pix 3% de desconto)","R$ 3,94",3.94,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-lorasliv-10mg-com-12-comprimidos
+2026-06-11 09:12:25,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 260.500 vendidos
+Loratadina 10Mg 12 Comprimidos - Neo Química - Genérico (Claritin)
+De
+R$
+51,82
+89% off
+Por
+R$ 5,88
+Pix
+R$ 5,70
+(No Pix 3% de desconto)","R$ 5,70",5.7,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-10mg-12-comprimidos-neo-quimica-generico
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 5.000 vendidos
+Loratadina 10Mg 12 Comprimidos - Ranbaxy Genérico (Claritin)
+De
+R$
+44,58
+91% off
+Por
+R$ 3,99
+Pix
+R$ 3,87
+(No Pix 3% de desconto)","R$ 3,87",3.87,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-10-mg-com-12-comprimidos-ranbaxy-generico
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 5.400 vendidos
+Loratadina 1Mg/Ml Xarope - Airela Genérico 100Ml (Claritin)
+De
+R$
+23,64
+37% off
+Por
+R$ 14,78
+Pix
+R$ 14,34
+(No Pix 3% de desconto)","R$ 14,34",14.34,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-1mgml-xarope-generico-airela-100ml
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 10.400 vendidos
+Loratadina 1Mg/Ml Xarope 100Ml - Globo - Genérico (Claritin)
+De
+R$
+26,71
+55% off
+Por
+R$ 12,02
+Pix
+R$ 11,66
+(No Pix 3% de desconto)","R$ 11,66",11.66,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-1mgml-xarope-100ml-globo-generico
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 1.043.300 vendidos
+Loratamed Loratadina 10Mg 12 Comprimidos
+De
+R$
+23,30
+90% off
+Por
+R$ 2,38
+Pix
+R$ 2,31
+(No Pix 3% de desconto)","R$ 2,31",2.31,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-loratamed-10-mg-com-12-comprimidos
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 33.600 vendidos
+Loratamed Loratadina 1Mg/Ml Xarope Sabor Uva 100Ml
+De
+R$
+28,84
+71% off
+Por
+R$ 8,29
+Pix
+R$ 8,04
+(No Pix 3% de desconto)","R$ 8,04",8.04,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-loratamed-xarope-com-100-ml
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 69.600 vendidos
+Loratadina 1Mg/Ml Xarope 100Ml - Cimed Genérico (Claritin)
+De
+R$
+37,19
+73% off
+Por
+R$ 9,99
+Pix
+R$ 9,69
+(No Pix 3% de desconto)","R$ 9,69",9.69,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-xarope-100ml-cimed-generico
+2026-06-11 09:12:26,loratadina,35,Santo Agostinho Manaus,Ultrafarma,"+ 18.500 vendidos
+Loratadina 1Mg/Ml Xarope Sabor Cereja 100Ml - Ems Genérico (Claritin)
+De
+R$
+45,42
+69% off
+Por
+R$ 14,20
+Pix
+R$ 13,77
+(No Pix 3% de desconto)","R$ 13,77",13.77,baixo,SIM,1,https://www.ultrafarma.com.br/loratadina-xarope-com-100-ml-ems-generico
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 10mg 14 cápsulas Medley Genérico,"R$ 14,29",14.29,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-10-mg-medley-generico-14-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 40mg 7 cápsulas Medley Genérico,"R$ 27,17",27.17,medio,SIM,1,https://www.drogasil.com.br/omeprazol-40-mg-medley-generico-7-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Uniprazol Omeprazol 20mg 28 cápsulas,"R$ 15,79",15.79,baixo,SIM,1,https://www.drogasil.com.br/uniprazol-20mg-28-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 56 cápsulas Cimed Genérico,"R$ 15,79",15.79,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-cimed-genericos-56-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 56 cápsulas Teuto Genérico,"R$ 14,33",14.33,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-teuto-generico-com-56-comprimidos.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 28 cápsulas Cimed Genérico,"R$ 11,74",11.74,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-cimed-genericos-28-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 28 cápsulas EMS Genérico,"R$ 17,99",17.99,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-ems-generico-28-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 56 Cápsulas Globo Genérico,"R$ 18,89",18.89,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-globo-genericos-56-comprimidos.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 42 cápsulas Medley Genérico,"R$ 28,41",28.41,medio,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-medley-generico-42-capsulas.html?origin=search
+2026-06-11 09:12:53,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 56 cápsulas União Química Genérico,"R$ 20,49",20.49,medio,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-uniao-quimica-genericos-com-56-capsulas.html?origin=search
+2026-06-11 09:12:54,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 56 cápsulas Neo Química Genérico,"R$ 17,31",17.31,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-neo-quimica-generico-56-capsulas.html?origin=search
+2026-06-11 09:12:54,omeprazol,50,Adrianópolis Manaus,Drogasil,Omenax Omeprazol 20mg 28 cápsulas,"R$ 16,59",16.59,baixo,SIM,1,https://www.drogasil.com.br/omenax-20mg-28-capsulas.html?origin=search
+2026-06-11 09:12:54,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 28 cápsulas Teuto Genérico,"R$ 16,59",16.59,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-teuto-generico-com-28-capsulas-gelatinosas.html?origin=search
+2026-06-11 09:12:54,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 28 cápsulas Neo Química Genérico,"R$ 13,99",13.99,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20mg-neo-quimica-generico-28-capsulas.html?origin=search
+2026-06-11 09:12:54,omeprazol,50,Adrianópolis Manaus,Drogasil,Omeprazol 20mg 7 cápsulas Medley Genérico,"R$ 18,59",18.59,baixo,SIM,1,https://www.drogasil.com.br/omeprazol-20-mg-medley-generico-7-capsulas.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 10mg 14 cápsulas Medley Genérico,"R$ 14,29",14.29,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-10-mg-medley-generico-14-capsulas.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 40mg 7 cápsulas Medley Genérico,"R$ 27,17",27.17,medio,SIM,1,https://www.drogaraia.com.br/omeprazol-40-mg-medley-generico-7-capsulas.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Uniprazol Omeprazol 20mg 28 cápsulas,"R$ 15,79",15.79,baixo,SIM,1,https://www.drogaraia.com.br/uniprazol-20mg-28-capsulas.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 56 cápsulas Cimed Genérico,"R$ 15,79",15.79,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-cimed-genericos-56-capsulas.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 56 cápsulas Teuto Genérico,"R$ 14,33",14.33,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-teuto-generico-com-56-comprimidos.html?origin=search
+2026-06-11 09:13:20,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 28 cápsulas Cimed Genérico,"R$ 11,74",11.74,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-cimed-genericos-28-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 28 cápsulas EMS Genérico,"R$ 17,99",17.99,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-ems-generico-28-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 42 cápsulas Medley Genérico,"R$ 28,41",28.41,medio,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-medley-generico-42-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 56 Cápsulas Globo Genérico,"R$ 18,89",18.89,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-globo-genericos-56-comprimidos.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 28 cápsulas Teuto Genérico,"R$ 16,59",16.59,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-teuto-generico-com-28-capsulas-gelatinosas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 56 cápsulas União Química Genérico,"R$ 20,49",20.49,medio,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-uniao-quimica-genericos-com-56-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 40mg 30 cápsulas Nova Química Genérico,"R$ 70,12",70.12,alto,NÃO,0,https://www.drogaraia.com.br/omeprazol-40mg-nova-quimica-generico-com-30-capsulas-dura.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Neprazol Omeprazol 20mg 56 cápsulas,"R$ 18,59",18.59,baixo,SIM,1,https://www.drogaraia.com.br/neprazol-20mg-56-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 7 cápsulas Medley Genérico,"R$ 18,59",18.59,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20-mg-medley-generico-7-capsulas.html?origin=search
+2026-06-11 09:13:21,omeprazol,50,Adrianópolis Manaus,Droga Raia,Omeprazol 20mg 28 cápsulas Medley Genérico,"R$ 17,23",17.23,baixo,SIM,1,https://www.drogaraia.com.br/omeprazol-20mg-medley-generico-28-capsulas.html?origin=search
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,Omeprazol 10mg,"R$ 124,06",124.06,alto,NÃO,0,https://www.ultrafarma.com.br/lp/omeprazol/omeprazol-10mg
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,Omeprazol 20mg,"R$ 120,34",120.34,alto,NÃO,0,https://www.ultrafarma.com.br/lp/omeprazol/omeprazol-20mg
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,Omeprazol 40mg,"R$ 120,34",120.34,alto,NÃO,0,https://www.ultrafarma.com.br/lp/omeprazol/omeprazol-40mg
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 29.300 vendidos
+Omeprazol 20Mg 28 Cápsulas - Cimed Genérico (Peprazol)
+De
+R$
+29,35
+83% off
+Por
+R$ 4,99
+Pix
+R$ 4,84
+(No Pix 3% de desconto)","R$ 4,84",4.84,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20mg-com-28-comprimidos-cimed-generico
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 30.600 vendidos
+Omeprazol 20Mg 28 Cápsulas - Ems Genérico (Losec)
+De
+R$
+34,61
+83% off
+Por
+R$ 5,93
+Pix
+R$ 5,75
+(No Pix 3% de desconto)","R$ 5,75",5.75,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20-mg-com-28-capsulas-ems-generico
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 4.900 vendidos
+Omeprazol 20Mg 28 Cápsulas - Medley Genérico - Contém Açúcar (Losec)
+De
+R$
+63,94
+72% off
+Por
+R$ 17,72
+Pix
+R$ 17,19
+(No Pix 3% de desconto)","R$ 17,19",17.19,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20-mg-com-28-capsulas-medley-generico-contem-acucar
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 800 vendidos
+Omeprazol 20Mg 28 Cápsulas - Nova Química Genérico (Losec)
+De
+R$
+34,93
+77% off
+Por
+R$ 7,93
+Pix
+R$ 7,69
+(No Pix 3% de desconto)","R$ 7,69",7.69,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20-mg-com-28-capsulas-nova-quimica-generico
+2026-06-11 09:13:42,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 39.400 vendidos
+Omeprazol 20Mg 42 Cápsulas - Medley Genérico - Contém Açúcar (Losec)
+De
+R$
+66,65
+77% off
+Por
+R$ 15,33
+Pix
+R$ 14,87
+(No Pix 3% de desconto)","R$ 14,87",14.87,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20-mg-com-42-capsulas-medley-generico
+2026-06-11 09:13:43,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 39.800 vendidos
+Omeprazol 20Mg 56 Cápsulas - Cimed Genérico (Peprazol)
+De
+R$
+42,37
+84% off
+Por
+R$ 6,99
+Pix
+R$ 6,78
+(No Pix 3% de desconto)","R$ 6,78",6.78,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20mg-com-56-capsulas-cimed-generico
+2026-06-11 09:13:43,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 195.800 vendidos
+Omeprazol 20Mg 56 Cápsulas - Globo Genérico (Losec)
+De
+R$
+37,69
+84% off
+Por
+R$ 5,99
+Pix
+R$ 5,81
+(No Pix 3% de desconto)","R$ 5,81",5.81,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20mg-56-capsulas-globo-generico
+2026-06-11 09:13:43,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 2.300 vendidos
+Omeprazol 20Mg 7 Cápsulas - Medley Genérico - Contém Açúcar (Losec)
+De
+R$
+23,20
+82% off
+Por
+R$ 4,10
+Pix
+R$ 3,98
+(No Pix 3% de desconto)","R$ 3,98",3.98,baixo,SIM,1,https://www.ultrafarma.com.br/omeprazol-20-mg-com-7-capsulas-medley-generico-contem-acucar
+2026-06-11 09:13:43,omeprazol,50,Adrianópolis Manaus,Ultrafarma,"+ 3.000 vendidos
+Omeprazol 40Mg 30 Cápsulas Liberação Retardada - Nova Química - Genérico (Losec)
+De
+R$
+119,45
+79% off
+Por
+R$ 25,03
+Pix
+R$ 24,28
+(No Pix 3% de desconto)","R$ 24,28",24.28,medio,SIM,1,https://www.ultrafarma.com.br/omeprazol-40mg-30-capsulas-liberacao-retardada-nova-quimica-generico

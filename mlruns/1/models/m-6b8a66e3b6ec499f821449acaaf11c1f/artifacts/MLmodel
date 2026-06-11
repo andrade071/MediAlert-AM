@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/matutino/Downloads/MediAlert-AM-main/MediAlert-AM-main/mlruns/1/models/m-6b8a66e3b6ec499f821449acaaf11c1f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-6b8a66e3b6ec499f821449acaaf11c1f
+model_size_bytes: 138090
+model_uuid: m-6b8a66e3b6ec499f821449acaaf11c1f
+prompts: null
+run_id: dc580a55e0ee42a89229b74f1d6d56b2
+utc_time_created: '2026-06-11 14:27:09.987055'
