@@ -222,4 +222,6 @@ O sistema irá:
 ---
 
 
-Projeto desenvolvido para fins acadêmicos e educacionais.
+## Propriedade Intelectual
+
+Este projeto e todo o seu código-fonte, modelos e artefatos são de propriedade da LG Electronics do Brasil Ltda., desenvolvido no âmbito do projeto AX Academy — Digital Transformation (Convênio N.º 005/2025 — INOVA / IFAM). Consulte o arquivo LICENSE para mais detalhes.
